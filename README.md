@@ -6,7 +6,7 @@ SOURCE CODE [ https://bit.ly/3rKkkrz ]
 
 #Applications 
 
-1. XAMMP Server Setup installation [https://bit.ly/3fi9KDb] INCLUDES SERVER (Apache),DB (MySQL)
+1.XAMMP Server Setup installation [https://bit.ly/3fi9KDb] INCLUDES SERVER (Apache),DB (MySQL)
 
 2.Node.js [to run JS Flies]
 
