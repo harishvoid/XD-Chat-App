@@ -27,7 +27,7 @@ Hosting ( Platform ): 000webhost.com [https://bit.ly/3ic4d34]
 
 ---------------------------------------------------------------------------------------------------
 
-#RESOURCE
+#RESOURCES
 
 html , css , javascript - (Tamil) Cyberdude Networks & W3S [https://bit.ly/3fj19QC]  [https://www.w3schools.com/ ]
 
