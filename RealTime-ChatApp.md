@@ -16,7 +16,7 @@ SOURCE CODE [ https://bit.ly/3rKkkrz ]
 -------------------------------------------------------------------------------------------------
 #TECHNOLOGIES
 
-Languages : HTML , CSS & Flexbox, Javascript , Ajax (xmlhttp request) , Php , MySql 
+Languages : HTML , CSS & Flexbox, Javascript , Ajax (xmlhttp request) , Php , MySql; 
 
 Hosting ( Platform ) : 000webhost.com [https://bit.ly/3ic4d34] 
 
@@ -43,4 +43,4 @@ MySQL  (Eng) Progamming With Mosh  & W3S [ https://bit.ly/3fhays6 ]
 (Tamil) Macappstudio SQL [https://bit.ly/3jdJYRY] 
 
 Things Should Be Include in Project
-Mail ID - OTP Validation https://www.youtube.com/watch?v=tYdy4272IEs
+Mail ID - OTP Validation [https://www.youtube.com/watch?v=tYdy4272IEs]
