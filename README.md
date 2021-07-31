@@ -34,3 +34,6 @@ MySQL  (Eng) Progamming With Mosh  & W3S [ https://www.youtube.com/watch?v=7S_tz
 (Tamil) Macappstudio DB Intro [https://www.youtube.com/watch?v=DdRN2nZnGwE&list=PL6CyumVlrb71qkV1tsMOoHz6JNXKiyA7g&index=3] 
 
 (Tamil) Macappstudio SQL [https://www.youtube.com/watch?v=J5ipv3RXNmI&list=PL6CyumVlrb71qkV1tsMOoHz6JNXKiyA7g&index=4] 
+
+Things Should Be Include in Project
+Mail ID - OTP Validation https://www.youtube.com/watch?v=tYdy4272IEs
