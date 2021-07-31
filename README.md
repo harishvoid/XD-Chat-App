@@ -25,8 +25,11 @@ html , css , javascript - (Tamil) Cyberdude Networks & W3S [ https://www.youtube
 Ajax  (Tamil) Code With Guruji & W3S [ https://www.youtube.com/watch?v=7ePIENilDBs&list=PLFNzeAQdOyYJZkfAZ9Wz_eQXP6LnCjeqH&index=31 ]
 
 Php   (Tamil) Macappstudio [https://www.youtube.com/watch?v=SGeeIqiqVSo], 
+
       (Tamil)Tamil Tutorials & W3S [https://www.youtube.com/playlist?list=PLWT0d6h7WclBnns2ct2nJ71HNib7qB5V1] & W3S 
 
 MySQL  (Eng) Progamming With Mosh  & W3S [ https://www.youtube.com/watch?v=7S_tz1z_5bA ] 
+
        (Tamil) Macappstudio DB Intro [https://www.youtube.com/watch?v=DdRN2nZnGwE&list=PL6CyumVlrb71qkV1tsMOoHz6JNXKiyA7g&index=3]
+       
        (Tamil) Macappstudio SQL [https://www.youtube.com/watch?v=J5ipv3RXNmI&list=PL6CyumVlrb71qkV1tsMOoHz6JNXKiyA7g&index=4] 
