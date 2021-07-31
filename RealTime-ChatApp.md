@@ -31,7 +31,8 @@ Hosting ( Platform ) : 000webhost.com [https://bit.ly/3ic4d34]
 
 html , css , javascript - (Tamil) Cyberdude Networks & W3S [https://bit.ly/3fj19QC]  [https://www.w3schools.com/ ]
 
-Ajax  (Tamil) Code With Guruji & W3S [https://bit.ly/2Vc7cj4 ]
+Ajax  (Tamil)  Intro [https://bit.ly/3xhHkPM]
+(Tamil) Code With Guruji & W3S [https://bit.ly/2Vc7cj4 ]
 
 Php   (Tamil) Macappstudio [https://bit.ly/2Vn9f3y], (Tamil) Tamil Tutorials & W3S [https://bit.ly/3A9aZwL]
 
