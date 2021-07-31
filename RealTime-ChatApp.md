@@ -14,7 +14,7 @@ SOURCE CODE [ https://bit.ly/3rKkkrz ]
 3.VS Code Extensions - vsIcons ,(HTML,CSS,JS,):formatter,liveserver,phpdebug,phpExtensionPack
 
 -------------------------------------------------------------------------------------------------
-#TECHNOLONIES
+#TECHNOLONOGIES
 
 Languages : HTML , CSS , Javascript , Ajax (xmlhttp request) , Php , MySql 
 
