@@ -18,7 +18,7 @@ SOURCE CODE [ https://bit.ly/3rKkkrz ]
 
 Languages : HTML , CSS , Javascript , Ajax (xmlhttp request) , Php , MySql 
 
-Hosting ( Platform ): 000webhost.com [https://bit.ly/3ic4d34] 
+Hosting ( Platform ) : 000webhost.com [https://bit.ly/3ic4d34] 
 
 -------------------------------------------------------------------------------------
 #WORK FLOW
