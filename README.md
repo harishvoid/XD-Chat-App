@@ -18,7 +18,7 @@ Languages : HTML , CSS , Javascript , Ajax (xmlhttp request) , Php , MySql
 Hosting ( Platform ): 000webhost.com [https://bit.ly/3ic4d34] 
 
 
-(Tamil) Macappstudio - Basic Working of Application Development https://bit.ly/37dwPCw
+(Tamil) Macappstudio - Basic Working of Web Application Development https://bit.ly/37dwPCw
 
 Resources
 html , css , javascript - (Tamil) Cyberdude Networks & W3S [https://bit.ly/3fj19QC]  [https://www.w3schools.com/ ]
