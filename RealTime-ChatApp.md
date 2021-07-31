@@ -7,14 +7,14 @@ SOURCE CODE [ https://bit.ly/3rKkkrz ]
 -----------------------------------------------------------------------
 #APPLICATIONS
 
-1.XAMMP Server Setup installation [https://bit.ly/3fi9KDb] INCLUDES SERVER (Apache),DB (MySQL)
+1.XAMMP Server Setup installation [https://bit.ly/3fi9KDb] Includes Server (Apache),DB (MySQL)
 
 2.Node.js [to run JS Flies]
 
 3.VS Code Extensions - vsIcons ,(HTML,CSS,JS,):formatter,liveserver,phpdebug,phpExtensionPack
 
 -------------------------------------------------------------------------------------------------
-#TECHNOLONOGIES
+#TECHNOLOGIES
 
 Languages : HTML , CSS & Flexbox, Javascript , Ajax (xmlhttp request) , Php , MySql 
 
