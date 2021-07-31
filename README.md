@@ -4,6 +4,7 @@ Web Appliaction
 CodingNepal - ChatApp [https://www.youtube.com/watch?v=VnvzxGWiK54] 
 SOURCE CODE [ https://bit.ly/3rKkkrz ]
 
+-----------------------------------------------------------------------
 #Applications 
 
 1.XAMMP Server Setup installation [https://bit.ly/3fi9KDb] INCLUDES SERVER (Apache),DB (MySQL)
@@ -12,13 +13,18 @@ SOURCE CODE [ https://bit.ly/3rKkkrz ]
 
 3.VS Code Extensions - vsIcons ,(HTML,CSS,JS,):formatter,liveserver,phpdebug,phpExtensionPack
 
+-------------------------------------------------------------------------------------------------
 #Technologies 
 Languages : HTML , CSS , Javascript , Ajax (xmlhttp request) , Php , MySql 
 
 Hosting ( Platform ): 000webhost.com [https://bit.ly/3ic4d34] 
 
+-------------------------------------------------------------------------------------
+
 
 (Tamil) Macappstudio - Basic Working of Web Application Development https://bit.ly/37dwPCw
+
+---------------------------------------------------------------------------------------------------
 
 Resources
 html , css , javascript - (Tamil) Cyberdude Networks & W3S [https://bit.ly/3fj19QC]  [https://www.w3schools.com/ ]
