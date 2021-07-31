@@ -5,7 +5,7 @@ CodingNepal - ChatApp [https://www.youtube.com/watch?v=VnvzxGWiK54]
 
 SOURCE CODE [ https://drive.google.com/file/d/1O7BOboUca99wyuq_Bv3J-CbaMjiZ3fJH/view?usp=sharing ]
 
-Application
+#Applications 
 
 1. XAMMP Server Setup installation [https://www.youtube.com/watch?v=_TDiZWoiewk] INCLUDES SERVER (Apache),DB (MySQL)
 
@@ -13,7 +13,7 @@ Application
 
 3.VS Code Extensions - vsIcons ,(HTML,CSS,JS,):formatter,liveserver,phpdebug,phpExtensionPack
 
-Technologies 
+#Technologies 
 Languages : HTML , CSS , Javascript , Ajax (xmlhttp request) , Php , MySql 
 
 Hosting ( Platform ): 000webhost.com [https://www.youtube.com/watch?v=8brkoQFWk8M&list=LL&index=2] 
