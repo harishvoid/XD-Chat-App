@@ -7,7 +7,9 @@ SOURCE CODE [ https://drive.google.com/file/d/1O7BOboUca99wyuq_Bv3J-CbaMjiZ3fJH/
 
 Application
 XAMMP Server Setup installation [https://www.youtube.com/watch?v=_TDiZWoiewk] INCLUDES SERVER (Apache),DB (MySQL)
+
 Node.js [to run JS Flies]
+
 VS Code Extensions - vsIcons ,(HTML,CSS,JS,):formatter,liveserver,phpdebug,phpExtensionPack
 
 Technologies 
