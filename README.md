@@ -5,7 +5,7 @@ CodingNepal - ChatApp [https://www.youtube.com/watch?v=VnvzxGWiK54]
 SOURCE CODE [ https://bit.ly/3rKkkrz ]
 
 -----------------------------------------------------------------------
-#APPLICATION
+#APPLICATIONS
 
 1.XAMMP Server Setup installation [https://bit.ly/3fi9KDb] INCLUDES SERVER (Apache),DB (MySQL)
 
@@ -15,6 +15,7 @@ SOURCE CODE [ https://bit.ly/3rKkkrz ]
 
 -------------------------------------------------------------------------------------------------
 #TECHNOLONIES
+
 Languages : HTML , CSS , Javascript , Ajax (xmlhttp request) , Php , MySql 
 
 Hosting ( Platform ): 000webhost.com [https://bit.ly/3ic4d34] 
