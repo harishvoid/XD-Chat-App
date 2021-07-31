@@ -2,12 +2,11 @@
 
 Web Appliaction
 CodingNepal - ChatApp [https://www.youtube.com/watch?v=VnvzxGWiK54] 
-
-SOURCE CODE [ https://drive.google.com/file/d/1O7BOboUca99wyuq_Bv3J-CbaMjiZ3fJH/view?usp=sharing ]
+SOURCE CODE [ https://bit.ly/3rKkkrz ]
 
 #Applications 
 
-1. XAMMP Server Setup installation [https://www.youtube.com/watch?v=_TDiZWoiewk] INCLUDES SERVER (Apache),DB (MySQL)
+1. XAMMP Server Setup installation [https://bit.ly/3fi9KDb] INCLUDES SERVER (Apache),DB (MySQL)
 
 2.Node.js [to run JS Flies]
 
@@ -16,24 +15,23 @@ SOURCE CODE [ https://drive.google.com/file/d/1O7BOboUca99wyuq_Bv3J-CbaMjiZ3fJH/
 #Technologies 
 Languages : HTML , CSS , Javascript , Ajax (xmlhttp request) , Php , MySql 
 
-Hosting ( Platform ): 000webhost.com [https://www.youtube.com/watch?v=8brkoQFWk8M&list=LL&index=2] 
+Hosting ( Platform ): 000webhost.com [https://bit.ly/3ic4d34] 
 
 
-(Tamil) Macappstudio - Basic Working of Application Development
-https://www.youtube.com/watch?v=YYcyoqSs9CM&list=PL6CyumVlrb71qkV1tsMOoHz6JNXKiyA7g&index=2
+(Tamil) Macappstudio - Basic Working of Application Development https://bit.ly/37dwPCw
 
 Resources
-html , css , javascript - (Tamil) Cyberdude Networks & W3S [ https://www.youtube.com/user/CyberDudeNetworks]  [https://www.w3schools.com/ ]
+html , css , javascript - (Tamil) Cyberdude Networks & W3S [https://bit.ly/3fj19QC]  [https://www.w3schools.com/ ]
 
-Ajax  (Tamil) Code With Guruji & W3S [ https://www.youtube.com/watch?v=7ePIENilDBs&list=PLFNzeAQdOyYJZkfAZ9Wz_eQXP6LnCjeqH&index=31 ]
+Ajax  (Tamil) Code With Guruji & W3S [https://bit.ly/2Vc7cj4 ]
 
-Php   (Tamil) Macappstudio [https://www.youtube.com/watch?v=SGeeIqiqVSo],   (Tamil)Tamil Tutorials & W3S [https://www.youtube.com/playlist?list=PLWT0d6h7WclBnns2ct2nJ71HNib7qB5V1] & W3S 
+Php   (Tamil) Macappstudio [https://bit.ly/2Vn9f3y], (Tamil) Tamil Tutorials & W3S [https://bit.ly/3A9aZwL]
 
-MySQL  (Eng) Progamming With Mosh  & W3S [ https://www.youtube.com/watch?v=7S_tz1z_5bA ] 
+MySQL  (Eng) Progamming With Mosh  & W3S [ https://bit.ly/3fhays6 ] 
 
-(Tamil) Macappstudio DB Intro [https://www.youtube.com/watch?v=DdRN2nZnGwE&list=PL6CyumVlrb71qkV1tsMOoHz6JNXKiyA7g&index=3] 
+(Tamil) Macappstudio DB Introduction [https://bit.ly/3ymJRtG] 
 
-(Tamil) Macappstudio SQL [https://www.youtube.com/watch?v=J5ipv3RXNmI&list=PL6CyumVlrb71qkV1tsMOoHz6JNXKiyA7g&index=4] 
+(Tamil) Macappstudio SQL [https://bit.ly/3jdJYRY] 
 
 Things Should Be Include in Project
 Mail ID - OTP Validation https://www.youtube.com/watch?v=tYdy4272IEs
