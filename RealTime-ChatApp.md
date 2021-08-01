@@ -1,6 +1,6 @@
 # MsgApp
 
-#fuck society
+#fck society
 
 #WEB APPLICATION
 CodingNepal - ChatApp [https://www.youtube.com/watch?v=VnvzxGWiK54] 
