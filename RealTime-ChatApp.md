@@ -1,5 +1,7 @@
 # MsgApp
 
+#fuck society
+
 #WEB APPLICATION
 CodingNepal - ChatApp [https://www.youtube.com/watch?v=VnvzxGWiK54] 
 SOURCE CODE [ https://bit.ly/3rKkkrz ]
