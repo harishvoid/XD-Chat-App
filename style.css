@@ -1,0 +1,429 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: #181818;
+    color: #ffff;
+}
+
+.wrapper {
+    background: #303030;
+    width: 450px;
+    border-radius: 13px;
+    box-shadow: 0 0 128px 0 rgba(99, 99, 99, 0.1), 0 32px 64px -48px rgba(0, 0, 0, 0.5)
+}
+
+
+/* Signup Form CSS Code*/
+
+.form {
+    padding: 25px 30px;
+}
+
+.form header {
+    font-size: 25px;
+    font-weight: 600;
+    border-bottom: 1px solid #525151;
+}
+
+.form form {
+    margin: 20px 0;
+}
+
+.form form .error-txt {
+    color: #f8d7da;
+    background: #721c24;
+    padding: 8px 10px;
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    display: none;
+}
+
+.form form .name-details {
+    display: flex;
+}
+
+form .name-details .field:first-child {
+    margin-right: 10px;
+}
+
+.form form .field {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.form form .field label {
+    margin-bottom: 2px;
+}
+
+.form form .field input {
+    outline: none;
+}
+
+.form form .input input {
+    height: 40px;
+    width: 100%;
+    font-size: 16px;
+    padding: 0 10px;
+    border: 1px solid rgb(122, 122, 122);
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    background: #2b2a2a;
+}
+
+.form form .image input {
+    font-size: 17px;
+}
+
+.form form .image input:hover {
+    cursor: pointer;
+}
+
+.form form .button input {
+    margin-top: 13px;
+    height: 45px;
+    border: none;
+    font-size: 17px;
+    font-weight: 400;
+    background: #1f5381;
+    color: #78bffd;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+.form form .button input:hover {
+    background: #78bffd;
+    color: #1f5381;
+    cursor: pointer;
+    border: 2px solid #1f5381;
+}
+
+.form form .field i {
+    position: absolute;
+    right: 15px;
+    color: rgb(99, 99, 99);
+    top: 70%;
+    transform: translateY(-50%);
+    cursor: pointer;
+}
+
+.form form .field i.active::before {
+    color: rgb(136, 136, 136);
+    content: "\f070";
+}
+
+.form .link {
+    text-align: center;
+    margin: 10px 0;
+    font-size: 17px;
+}
+
+.form .link a {
+    color: #78bffd;
+    transition: all 0.3s ease 0s;
+}
+
+.form .link a:hover {
+    text-decoration: underline;
+}
+
+
+/* User File CSS Code*/
+
+.users {
+    padding: 25px 30px;
+}
+
+.users header,
+.users-list a {
+    display: flex;
+    align-items: center;
+    padding-bottom: 20px;
+    justify-content: space-between;
+    border-bottom: 1px solid #414141;
+}
+
+.wrapper img {
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+:is(.users,
+.users-list) .content {
+    display: flex;
+    align-items: center;
+}
+
+.users header .content img {
+    height: 50px;
+    width: 50px;
+}
+
+:is(.users,
+.users-list) .details {
+    color: #ffff;
+    margin-left: 15px;
+}
+
+:is(.users,
+.users-list) .details span {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.users header .logout {
+    background: #78bffd;
+    font-size: 17px;
+    padding: 7px 15px;
+    background: #1f5381;
+    color: #78bffd;
+    border-radius: 5px;
+    transition: all 0.3s ease 0s;
+}
+
+.users header .logout:hover {
+    color: #1f5381;
+    background: #78bffd;
+}
+
+.users .search {
+    margin: 20px 0;
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.users .search .text {
+    font-size: 18px;
+}
+
+.users .search input {
+    position: absolute;
+    height: 42px;
+    width: calc(100% - 50px);
+    padding: 0 13px;
+    font-size: 16px;
+    border: 1px solid rgb(78, 78, 78);
+    border-radius: 6px;
+    color: rgb(255, 255, 255);
+    background: #2b2a2a;
+    transition: all 0.3s ease 0s;
+    outline: none;
+    opacity: 0;
+    pointer-events: none;
+    transition: all 0.1s ease;
+}
+
+.users .search input.active {
+    opacity: 1;
+    pointer-events: none;
+}
+
+.users .search input:hover {
+    background: #313131;
+}
+
+.users .search button {
+    width: 47px;
+    height: 42px;
+    border: none;
+    outline: none;
+    color: #78bffd;
+    background: #1f5381;
+    border-radius: 6px;
+    font-size: 17px;
+    transition: all 0.2s ease 0s;
+}
+
+.users .search button:hover {
+    color: #1f5381;
+    background: #78bffd;
+}
+
+.users .search button.active {
+    color: #1f5381;
+    background: #78bffd;
+}
+
+.users .search button.active i::before {
+    content: "\f00d";
+}
+
+.users-list {
+    max-height: 350px;
+    overflow-y: auto;
+}
+
+:is(.users-list,
+.chat-box)::-webkit-scrollbar {
+    width: 0px;
+}
+
+.users-list a {
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    border-bottom-color: #414141;
+}
+
+.user-list a:last-child {
+    border: none;
+    margin-bottom: 0px;
+}
+
+.users-list a .content img {
+    height: 40px;
+    width: 40px;
+}
+
+.users-list a .content p {
+    color: #a8a8a8;
+}
+
+.users-list a .status-dot {
+    font-size: 12px;
+    color: #468669;
+}
+
+
+/* we'll use class name in php to show offline */
+
+.users-list a .status-dot.offline {
+    color: #a8a8a8;
+}
+
+
+/* Chat CSS Code*/
+
+.chat-area header {
+    display: flex;
+    align-items: center;
+    padding: 18px 30px;
+}
+
+.chat-area header .back-icon {
+    font-size: 17px;
+    color: rgb(182, 182, 182);
+}
+
+.chat-area header img {
+    height: 45px;
+    width: 45px;
+    margin: 0 15px;
+}
+
+.chat-area header span {
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.chat-box {
+    height: 500px;
+    overflow-y: auto;
+    background: #252525;
+    padding: 10px 30px 20px 30px;
+    box-shadow: inset 0 32px 32px -32px rgb(0 0 0 /5%), inset 0 32px 32px -32px rgb(0 0 0 /5%);
+}
+
+.chat-box .chat {
+    margin: 15px 0;
+}
+
+.chat-box .chat p {
+    word-wrap: break-word;
+    padding: 8px 16px;
+    box-shadow: 0 0 32px rgb(0 0 0 /8%), 0 16px 16px -16px rgb(0 0 0 / 10%);
+}
+
+.chat-box .outgoing {
+    display: flex;
+}
+
+.outgoing .details p {
+    background: #1f5381;
+    color: #fff;
+    border-radius: 18px 18px 0 18px;
+}
+
+.outgoing .details {
+    margin-left: auto;
+    max-width: calc(100% - 130px);
+}
+
+.chat-box .incoming {
+    display: flex;
+    align-items: flex-end;
+}
+
+.chat-box .incoming img {
+    height: 35px;
+    width: 35px;
+}
+
+.incoming .details {
+    margin-left: 10px;
+    margin-right: auto;
+    max-width: calc(100% - 130px);
+}
+
+.incoming .details p {
+    background: #2e2e2e;
+    color: #fff;
+    border-radius: 18px 18px 22px 0px;
+}
+
+.chat-area .typing-area {
+    padding: 18px 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.typing-area input {
+    height: 48px;
+    width: calc(100% - 58px);
+    font-size: 17px;
+    border: 1px solid rgb(56, 56, 56);
+    padding: 0 12px;
+    border-radius: 6px;
+    background: #252525;
+    transition: all 0.3s ease 0s;
+    color: #ffff;
+    outline: none;
+}
+
+.typing-area input:hover {
+    background: #2e2e2e;
+}
+
+.typing-area button {
+    width: 55px;
+    height: 48px;
+    border: none;
+    outline: none;
+    font-size: 20px;
+    color: #78bffd;
+    background: #1f5381;
+    border-radius: 6px;
+    transition: all 0.3s ease 0s;
+}
+
+.typing-area button:hover {
+    cursor: pointer;
+    color: #1f5381;
+    background: #78bffd;
+}
