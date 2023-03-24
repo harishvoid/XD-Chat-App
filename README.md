@@ -1,4 +1,4 @@
-# MsgApp
+# XD Chat App
 
 #WEB APPLICATION
 CodingNepal - ChatApp [https://www.youtube.com/watch?v=VnvzxGWiK54] 
