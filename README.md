@@ -1,7 +1,7 @@
 # XD Chat App (Realtime Chat Application)
 
 #WEB APPLICATION
-# XD Chat App (Realtime Chat Application)
+# XD Chat App 
 
 Our chat app is designed to connect people from all over the world in a fast, easy, and secure way. With our app, you can easily chat with your friends, family, or even strangers. You can create groups and have conversations with multiple people at the same time, or have private one-on-one conversations.
 
