@@ -10,3 +10,5 @@ Our app also comes with a range of features that enhance your chatting experienc
 Our app also includes a range of customization options, so you can make your chat experience truly unique.
 
 With our chat app, you can stay connected with your loved ones and meet new people, all in one place. Download our app today and start chatting!
+
+:Hosted Site Has been Compremised due to Domain Renewel !!! Hope We Host it soon
