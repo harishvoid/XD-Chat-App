@@ -1,4 +1,4 @@
-# XD Chat App (Realtime Chat Application)
+# XD Chat App (Realtime Chat Application) from Coding Nepal 
 
 #WEB APPLICATION
 # XD Chat App 
